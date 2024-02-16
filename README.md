@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 
 # react-tailwind
 ## screenshot
-- ***desktop*** 
+- **desktop** 
 ![full screen](https://github.com/ruby-bang/react-tailwind/assets/81295292/36e05909-4c3d-46b5-9a11-74f887431d57)
 
-### mobile
+- **mobile**
 ![mobile screen](https://github.com/ruby-bang/react-tailwind/assets/81295292/2692a7e4-8ed3-4004-ac06-7a0893c34de0)
-### mobile menu
+- **mobile menu**
 ![mobile screen menu](https://github.com/ruby-bang/react-tailwind/assets/81295292/326a0713-4824-443c-bb25-bfe40444638e)
