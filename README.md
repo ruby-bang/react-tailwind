@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # react-tailwind
 ## screenshot
-- **desktop** 
+- ***desktop*** 
 ![full screen](https://github.com/ruby-bang/react-tailwind/assets/81295292/36e05909-4c3d-46b5-9a11-74f887431d57)
 
 ### mobile
