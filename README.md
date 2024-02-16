@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 # react-tailwind
 ## screenshot
-![full screen](https://github.com/ruby-bang/react-tailwind/assets/81295292/15184b24-9b4f-4e46-a31c-dd34e2dc53de)
+![full screen](https://github.com/ruby-bang/react-tailwind/assets/81295292/36e05909-4c3d-46b5-9a11-74f887431d57)
+
 ![mobile screen](https://github.com/ruby-bang/react-tailwind/assets/81295292/87889af5-0179-459a-8f27-1b8a4d344141)
-![mobile screen menu](https://github.com/ruby-bang/react-tailwind/assets/81295292/86718d13-22b1-4409-9283-17680917793a)
+
+![mobile screen menu](https://github.com/ruby-bang/react-tailwind/assets/81295292/326a0713-4824-443c-bb25-bfe40444638e)
